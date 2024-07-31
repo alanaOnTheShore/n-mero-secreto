@@ -5,5 +5,5 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=EA2CE4&style=for-the-badge)
 
 <p>
-  Projeto desenvolvido no curso de lógica de programação da <i>Alura.</i><br> Um jogo interativo para adivinhar um número sorteado automaticamente.
+  Projeto desenvolvido no curso de lógica de programação da <i>Alura.</i><br> Um jogo interativo para adivinhar um número sorteado automaticamente./bTrabalhei no desenvolvimento back-end do trabalho como parte das atividades do curso.
 </p>
